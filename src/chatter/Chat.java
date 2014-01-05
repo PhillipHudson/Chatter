@@ -3,6 +3,7 @@ package chatter;
 import java.util.Calendar;
 
 public class Chat {
+	
 	private String user;
 	private String message;
 	private Calendar chatTime;
